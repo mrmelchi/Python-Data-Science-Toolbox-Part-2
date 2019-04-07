@@ -4,6 +4,6 @@ Learn about iterators, list comprehensions and generators and apply the knowledg
 
 - Using iterators: work with iterators and iterables.
 
-- List comprehensions and generators: create complicated lists and lists of lists in one line of code and learn about generators. 
+- List comprehensions and generators: create lists, lists of lists and generators. 
 
 - Bringing it all together: work with the World Bank's World Development Indicators dataset. 
