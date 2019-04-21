@@ -1,5 +1,7 @@
 # Python-Data-Science-Toolbox-Part-2
 
+The data analysis is documented in [Python Data Science Toolbox (Part 2).ipynb](https://github.com/iDataist/Python-Data-Science-Toolbox-Part-2). The lecture notes and the raw data files are also stored in the repository. The summary of the content is shown below:
+
 - Using iterators: work with iterators and iterables.
 
 - List comprehensions and generators: create lists, lists of lists and generators.
